@@ -1,0 +1,2 @@
+# Swash-zone-analyis
+Coastal analysis is important for engineering, logistical, and ecological purposes. These programs focuses on two video clips, one from Seabright and the other from Manresa beach, and attempts to analyze the swash zone for coastal erosion purposes. This is achieved by creating timeline, vector, and time exposure visualizations. The results were shown that there exists a swash zone on both beaches and that there is a greater wave up-wash over time. This could possibly lead to greater sediment deposit for this particular time.
