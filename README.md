@@ -10,19 +10,16 @@ Coastal analysis is important for engineering, logistical, and ecological purpos
 
 –Description—
 
-There are 5 provided files in this project. Each takes in the file path name of raw scalar or vector files for state beach videos. Their purpose is to generate visualizations to aid in coastal analysis.
+There are 4 provided files in this project. Each takes in the file path name of raw scalar or vector files for state beach videos. Their purpose is to generate visualizations to aid in coastal analysis.
 
 manresa_vector.py 
 Constructs the timeline for Manresa state beach.
 
-manresa_scalar.py
-Constructs the timestack for Manresa state beach both as png and gif.
-
 seabright_vector.py
 Constructs the timeline for Seabright state beach.
 
-seabright_scalar.py
-Constructs the timestack for Seabright state beach both as png and gif.
+timestack_scalar.py
+Constructs the timestack for Seabright and Manresa state beach both as png and gif.
 
 timeex_scalar.py
 Constructs the time exposure image for the specified file as a png. Make sure to only input the scalar raw file for this program.
