@@ -8,7 +8,7 @@ Coastal analysis is important for engineering, logistical, and ecological purpos
 *Usage
 *Maintainers
 
-–Description—
+# –Description—
 
 There are 4 provided files in this project. Each takes in the file path name of raw scalar or vector files for state beach videos. Their purpose is to generate visualizations to aid in coastal analysis.
 
@@ -25,19 +25,19 @@ timeex_scalar.py
 Constructs the time exposure image for the specified file as a png. Make sure to only input the scalar raw file for this program.
 
 
-–Requirements—
+# –Requirements—
 
 This will require python3 as well as its libraries: math, pandas, and numpy. If you do not have these libraries use the pip installer to instal;l them. 
 
-–Installation—
+# –Installation—
 
 Download the files as you would normally. 
 
-–Configuration—
+# –Configuration—
 
 No modifiable settings or configurations.
 
-–Usage—
+# –Usage—
 
 Run the script from the command line using the following command:
 
@@ -45,7 +45,7 @@ python3 <name of file>
 
 When prompted input the file path where the raw files are located. Follow the instructions and input only the long type raw file for Manresa beach and the unsigned char value for Seabright.
 
-–Maintainers—
+# –Maintainers—
 
 There are no maintainers.
 
